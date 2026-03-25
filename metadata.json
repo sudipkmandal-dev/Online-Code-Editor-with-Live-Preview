@@ -1,0 +1,5 @@
+{
+  "name": "Live Code Editor",
+  "description": "A browser-based IDE for HTML, CSS, and JS with live preview and sharing.",
+  "requestFramePermissions": []
+}
